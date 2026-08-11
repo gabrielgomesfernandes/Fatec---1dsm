@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "um":"npx tsc && node ./dist/um.js"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
